@@ -1,7 +1,7 @@
 # GitHub Profile View Counter
 
 A simple, efficient view counter for GitHub profiles that excludes your own views. This counter tracks unique visits by IP address and prevents counting repeated views from the same source for 30 minutes.
-
+Heavily made with AI. (I AM NOT RESPONSIBLE FOR ANY SPAGHETTI CODE)
 ## Features
 
 - 📊 Tracks views to your GitHub profile
